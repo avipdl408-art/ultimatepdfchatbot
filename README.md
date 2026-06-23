@@ -127,3 +127,7 @@ The framework uses an automated token evaluation engine. When keywords like *dep
 * **National Suicide Prevention Helpline (Nepal):** `1166`
 * **TUTH Mental Health Helpline:** `9813473506`
 * **TPO Nepal Toll-Free Support:** `16600102005`
+
+##  Login
+Username= admin
+Password= password
